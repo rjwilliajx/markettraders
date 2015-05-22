@@ -1,0 +1,212 @@
+
+body {
+	background: url(images/mainbg.png) repeat;
+	padding: 0;
+	margin: 0 auto;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #808080;
+}
+#chartingcontainer {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0;
+}
+.chartingheader {
+	background: url(images/header-subs-avail-tile.png) repeat-x;
+	height: 139px;
+	margin: 0 auto;
+	padding: 0;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+.chartingcontentcontainer {
+	background: url(images/charting-sales-box-bg.png) repeat-x;
+	height: 390px;
+	margin: 0;
+	padding: 0;
+}
+.chartingcontentleft {
+	width: 316px;
+	margin: 0;
+	padding: 0;	
+	padding-top: 29px;
+	float: left;
+}
+.chartingcontentright {
+width: 580px;
+margin: 0 10px 0 0;
+padding: 0;
+margin-top: 29px;
+float: right;
+text-align: center;
+position: relative;
+background-color: black;
+}
+.chartingcontenttitle {
+	background: url(images/charting-title-bar-tile.png) repeat-x;
+	height: 50px;
+	width: auto;
+	margin: 0;
+	padding: 0 10px;
+}
+
+
+.chartingordercontenttitle-2{
+background-image: url(images/start-maximizing-order-now.png);
+background-repeat: repeat-x;
+width: 960px;
+height:80px;
+}
+
+.chartingcontentmid {
+	background: url(images/charting-mid-content-bg.png) repeat-x;
+	height: 342px;
+	margin: 0;
+	padding: 0;
+}
+.chartingcontentmidtitle{
+	width: 316px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.chartingmidvidbox {
+	background: url(images/charting-page-svideo-box.png);
+	height: 266px;
+	width: 218px;
+}
+.chartingmidvidbox2 {
+	background: url(images/charting-page-svideo-box2.png);
+	height: 266px;
+	width: 218px;
+}
+.chartingmidvidcontainer {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	clear: both;
+}
+.chartingordercontent {
+	margin: 0;
+	padding: 0;
+}
+.chartingordercontenttitle{
+	background: url(images/charting-ordernow-content-title.png);
+	width: 960px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.contentfooter{
+	background: url(images/charting-sales-bottom-tile.png) repeat-x #fcfcfc;
+	height: auto;
+	width:100%;
+	margin: 0;
+	padding: 0;
+	clear: both;
+	float: left;
+}
+
+.fader{
+position: absolute;
+background-color:#000000;
+/*background: url(images/charting-sales-box-bg.png) repeat-x;*/
+width: 580px;
+height: 335px;
+top: 0px;
+}
+
+.embedded-frame {
+background-color:#333333;
+width: 580px;
+height: 325px;
+padding: 10px;
+} 
+
+	#order-form {
+	width: 970px;
+	margin: 0 auto;
+	background-color:#FFF;
+	border: solid #DDD 1px;
+	}
+	
+	#order-form-2 {
+	width: 970px;
+	margin: 0 auto;
+	background-color:#FFF;
+	border: solid #DDD 1px;
+	}
+		#order-form-title {
+		background-color:#ffce17;
+		padding: 5px;
+		}
+		
+		#order-form-inner {}
+		#order-form-inner-2 {}
+			
+			#subscription {padding: 15px; border-bottom: solid #999 1px;} 
+				.option {background-image: url(img/option-bg.jpg); background-position: top center; background-repeat: repeat-x; width: 250px; float: left; padding: 15px; margin: 10px 15px; border: solid #DDD 1px; background-color:#EFEFEF; text-shadow: 1px 1px 1px #FFF;}
+					.option-select {width: 10px; height: 10px; float: left; position: relative; top: 13px;}
+					.option-description {margin-left: 25px; width: 230px; float: left;}
+					
+			#step-1, #step-2 {width: 334px; padding: 15px; float: left; height: 360px; border-right: solid #999 1px;}
+			#step-3 {float: left; padding: 15px; width: 170px;}
+	
+	.title{font-size: 12px;}
+.step-title {
+font-family: 'Oswald', Trebuchet MS;
+color:#333;
+text-transform: uppercase;
+font-size: 22px;
+}
+
+.step-title-sub {
+font-family: 'Oswald', Trebuchet MS;
+color:#888;
+text-transform: uppercase;
+font-size: 15px;
+}
+
+.feature-title {
+font-size: 14px;
+font-weight: bold;
+color:#555;
+}
+
+#step-2{
+font-size: 12px;
+}
+
+.clear {clear: both;}
+
+
+/*Thank You */
+#wrapper {
+	width: 719px;
+	margin: 0 auto;
+	padding: 0;
+}
+.header {
+	height: 139px;
+	margin: 0 auto;
+	padding: 0;
+}
+.content {
+	background-color:#FFFFFF;
+	margin: 0 auto;
+	padding: 0;
+}
+.content p {
+	margin: 0;
+	padding: 30px 50px 0px 50px;
+}
+.footer {
+	background: url(http://www.markettraders.com/toronto/images/thankyou-footer.png);
+	margin: 0 auto;
+	padding: 0;
+	height: 22px;
+}
